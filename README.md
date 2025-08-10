@@ -10,7 +10,7 @@ I am passionate about technology and problem solving. Always open to new challen
 
 ### 🌍 "Knowledge is the key to unlocking opportunities" 🧠
 
-- 📍 From Bragança Paulista living in São Paulo
+- 📍 From São Paulo
 - 💻 IT Student | Technical Support Enthusiast
 
 Reach me out 👇🏼
