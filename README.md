@@ -2,7 +2,7 @@
 ![](https://komarev.com/ghpvc/?username=Lucas-Oliveira-Santana)
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador LucasCode">
 
-My name is Lucas De Oliveira Santana 👨‍💻
+My name is Lucas Oliveira Santana 👨‍💻
 
 I am currently an IT student at Faculdade Impacta and Emergency Teleattendant 💻
 
@@ -10,8 +10,11 @@ I am passionate about technology and problem solving. Always open to new challen
 
 ### 🌍 "Knowledge is the key to unlocking opportunities" 🧠
 
-- 📍 From São Paulo
+- 📍 From Bragança Paulista living in São Paulo
 - 💻 IT Student | Technical Support Enthusiast
+
+## 🐍 Snake Eating My Contributions
+![Snake animation](https://github.com/Lucas-Oliveira-Santana/Lucas-Oliveira-Santana/blob/output/github-contribution-grid-snake.svg)
 
 Reach me out 👇🏼
 
